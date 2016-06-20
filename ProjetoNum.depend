@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1430960110 source:c:\users\rodrigo\documents\rodrigo\codeblocks\projetos\projetonum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1430960110 source:c:\users\lucas\documents\projetonum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
